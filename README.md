@@ -1,7 +1,7 @@
 # Doctors Office in Java and Spark
 by [Ben Vissotzky](https://github.com/benviss) and [Caleb Stevenson](https://github.com/cgrahams)
 
-version 0.0.0, September 14, 2016
+version 0.0.0, September 20, 2016
 
 ## Description
 A to-do list
